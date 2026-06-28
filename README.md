@@ -32,12 +32,12 @@ python .\mass-pdf-merge.py ".\example\pdfs" ".\example\fixed.pdf"
 ```
 > NOTE : The paths vary depending on the operating system!
 
-The outputs also included in [example/outputs]().
+The outputs also included in [example/outputs](https://github.com/kaveh-dev/mass-pdf-merge/tree/main/example/outputs).
 
 ## License
 This code is licensed under the MIT license.
 
 ## Contribution
-Feel free to open an issue or a pull request! Also, don't forget to star ⭐ if you like the code!
+Feel free to [open an issue](https://github.com/kaveh-dev/mass-pdf-merge/issues) or a [pull request](https://github.com/kaveh-dev/mass-pdf-merge/pulls)! Also, don't forget to star ⭐ if you like the code!
 
 
